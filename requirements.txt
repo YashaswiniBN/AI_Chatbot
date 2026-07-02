@@ -1,0 +1,18 @@
+# requirements.txt for Agentic RAG Chatbot
+langchain
+langgraph
+openai
+anthropic
+streamlit
+chromadb
+pypdf
+streamlit
+langchain
+langchain-community
+langgraph
+chromadb
+pypdf
+sentence-transformers
+python-dotenv
+anthropic
+google-generativeai
